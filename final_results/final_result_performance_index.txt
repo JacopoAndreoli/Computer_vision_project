@@ -1,0 +1,136 @@
+ The performance index reported are defined as follow:
+
+- Best IoU: it describe the best intersection of union between the ground truth rectangles and the filtered prediction did by the cascade of classifier algorithm
+- average IoU: average of intersection of union between all the filtered prediction and all ground truth rectangles. In this case the false positive are not considered in the average operation.
+- n° false positive: filtered prediction given by cascade of classifier that deal with wrong detection
+intersection of union obtained for test Kaggle, image 0:
+
+- best Iou: 0.811231
+- average Iou: 0.358744
+- n false positives: 2
+
+intersection of union obtained for test Kaggle, image 1:
+- best Iou: 0.29198
+- average Iou: 0.29198
+- n false positives: 0
+
+intersection of union obtained for test Kaggle, image 2:
+- best Iou: 0.203975
+- average Iou: 0.0781316
+- n false positives: 0
+
+intersection of union obtained for test Kaggle, image 3:
+
+- best Iou: 0.658206
+- average Iou: 0.333746
+- n false positives: 0
+
+intersection of union obtained for test Kaggle, image 4:
+
+- best Iou: 0.420455
+- average Iou: 0.420455
+- n false positives: 0
+
+intersection of union obtained for test Kaggle, image 5:
+
+- best Iou: 0.663459
+- average Iou: 0.335438
+- n false positives: 0
+
+intersection of union obtained for test Kaggle, image 6:
+
+- best Iou: 0.369357
+- average Iou: 0.205544
+- n false positives: 0
+
+intersection of union obtained for test Kaggle, image 7:
+
+- best Iou: 0.205714
+- average Iou: 0.202718
+- n false positives: 0
+
+
+intersection of union obtained for test Kaggle, image 8:
+
+- best Iou: 0.586488
+- average Iou: 0.306193
+- n false positives: 0
+
+intersection of union obtained for test Kaggle, image 9:
+
+- best Iou: 0.523798
+- average Iou: 0.523798
+- n false positives: 4
+
+intersection of union obtained for test Venice, image 0:
+
+- best Iou: 0.477286
+- average Iou: 0.258701
+- n false positives: 6
+
+intersection of union obtained for test Venice, image 1:
+
+- best Iou: 0.765702
+- average Iou: 0.5326
+- n false positives: 3
+
+intersection of union obtained for test Venice, image 2:
+
+- best Iou: 0.49323
+- average Iou: 0.29952
+- n false positives: 2
+
+intersection of union obtained for test Venice, image 3:
+
+- best Iou: 0.154431
+- average Iou: 0.135454
+- n false positives: 3
+
+intersection of union obtained for test Venice, image 4:
+
+- best Iou: 0.769589
+- average Iou: 0.432383
+- n false positives: 5
+
+intersection of union obtained for test Venice, image 5:
+
+- best Iou: 0.808824
+- average Iou: 0.255895
+- n false positives: 2
+
+intersection of union obtained for test Venice, image 6:
+
+- best Iou: 0.550475
+- average Iou: 0.154898
+- n false positives: 2
+
+intersection of union obtained for test Venice, image 7:
+
+- best Iou: 0.684847
+- average Iou: 0.458952
+- n false positives: 5
+
+intersection of union obtained for test Venice, image 8:
+
+- best Iou: 0.751247
+- average Iou: 0.294206
+- n false positives: 7
+
+intersection of union obtained for test Venice, image 9:
+
+- best Iou: 0.326403
+- average Iou: 0.0943016
+- n false positives: 2
+
+intersection of union obtained for test Venice, image 10:
+
+- best Iou: 0.524926
+- average Iou: 0.271991
+- n false positives: 1
+
+intersection of union obtained for test Venice, image 11:
+
+- best Iou: 0.439129
+- average Iou: 0.389756
+- n false positives: 0
+
